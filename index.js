@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 
 const cors = require('cors')
 // // Chargement des routes
-const routes = require("./routes/index");
+const routes = require("./routes");
 
 // // Indispensable pour recevoir des données (dans le body de la requête) d'une requête autre que GET
 server.use(express.json());

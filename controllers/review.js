@@ -11,16 +11,16 @@ module.exports = {
         });
     },
 
-    // // Récupérer un film
-    // get(req, res) {
-    //     // Récupération de l'id qui a été véhiculé en paramètre de l'url /movies/:id
-    //     const id = req.params.id;
-    //     console.log("Récupération du film avec l'id", id);
+    // Récupérer un film
+    get(req, res) {
+        // Récupération de l'id qui a été véhiculé en paramètre de l'url /movies/:id
+        const id = req.params.id;
+        console.log("Récupération du commentaire avec l'id", id);
 
-    //     Movie.findById(id).then(movie => {
-    //         res.send(movie);
-    //     });
-    // },
+        Review.findById(id).then(review => {
+            res.send(review);
+        });
+    },
 
     // // Créer un nouveau film
     // create(req, res) {
