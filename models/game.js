@@ -13,8 +13,8 @@ const GameSchema = new Schema({
     nbMaxPlayer: Number,
     difficulty: Number,
     quantity: Number,
-    minAge: Number
-    
+    minAge: Number,
+    categories: { type : Array , "default" : [] }
 });
 
 // Création du modèle qui prend en paramètre le schema que nous venons de créer
