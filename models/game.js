@@ -14,11 +14,12 @@ const GameSchema = new Schema({
     difficulty: Number,
     quantity: Number,
     minAge: Number,
-    categories: { type : Array , "default" : [] }
+    categories: { type: Array, "default": [] }
 });
 
-// Création du modèle qui prend en paramètre le schema que nous venons de créer
+
 const Game = mongoose.model("game", GameSchema);
+
 
 // Export du module Movie pour pouvoir l'utiliser dans le controller
 module.exports = Game;

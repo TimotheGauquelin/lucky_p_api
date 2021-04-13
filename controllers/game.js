@@ -2,9 +2,21 @@ const Game = require("../models/game");
 
 module.exports = {
     getAll(req, res) {
-        Game.find().then(games => {
-            res.send(games);
+
+        Game.aggregate([
+            {
+              '$lookup': {
+                'from': 'categories', 
+                'localField': 'categories', 
+                'foreignField': '_id', 
+                'as': 'categories'
+              }
+            }
+          ]).exec((err, games) => {
+            if (err) throw err;
+            res.send(games)
         });
+
     },
 
     get(req, res) {
