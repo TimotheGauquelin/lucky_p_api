@@ -1,10 +1,13 @@
+
 const mongoose = require("mongoose");
 
 // Récupération de la classe Schema de mongoose
 const Schema = mongoose.Schema;
-
+const ObjectId = Schema.Types.ObjectId
 // Création du schema pour la collection movies
 const GameSchema = new Schema({
+    _id: ObjectId,
+    lolo: ObjectId,
     title: String,
     preamble: String,
     description: String,

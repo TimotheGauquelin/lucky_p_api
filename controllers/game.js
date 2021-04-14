@@ -1,18 +1,20 @@
 const Game = require("../models/game");
+var mongoose = require('mongoose');
+
 
 module.exports = {
     getAll(req, res) {
 
         Game.aggregate([
             {
-              '$lookup': {
-                'from': 'categories', 
-                'localField': 'categories', 
-                'foreignField': '_id', 
-                'as': 'categories'
-              }
+                '$lookup': {
+                    'from': 'categories',
+                    'localField': 'categories',
+                    'foreignField': '_id',
+                    'as': 'categories'
+                }
             }
-          ]).exec((err, games) => {
+        ]).exec((err, games) => {
             if (err) throw err;
             res.send(games)
         });
@@ -20,14 +22,36 @@ module.exports = {
     },
 
     get(req, res) {
-        // Récupération de l'id qui a été véhiculé en paramètre de l'url /games/:id
         const id = req.params.id;
-        console.log("Récupération du jeu avec l'id", id);
+        const objId = mongoose.Types.ObjectId(id);
 
-        Game.findById(id).then(game => {
-            res.send(game);
+        Game.aggregate([
+            {
+                $match: { _id: objId }
+            },
+            {
+                '$lookup': {
+                    'from': 'categories',
+                    'localField': 'categories',
+                    'foreignField': '_id',
+                    'as': 'categories'
+                }
+            }
+        ]).exec((err, games) => {
+            if (err) throw err;
+            res.send(games)
         });
     },
+
+    // get(req, res) {
+    //     // Récupération de l'id qui a été véhiculé en paramètre de l'url /games/:id
+    //     const id = req.params.id;
+    //     console.log("Récupération du jeu avec l'id", id);
+
+    //     Game.findById(id).then(game => {
+    //         res.send(game);
+    //     });
+    // },
 
     // // Créer un nouveau film
     // create(req, res) {
