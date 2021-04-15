@@ -1,6 +1,7 @@
 const ReviewController = require("../controllers/review");
 const CategorieController = require("../controllers/categorie");
 const GameController = require("../controllers/game");
+const MenuController = require("../controllers/menu");
 
 module.exports = server => {
 
@@ -54,4 +55,15 @@ module.exports = server => {
     server.get("/games/:id", (req, res) => {
         GameController.get(req, res);
     });
+
+    //MENUS ROUTES
+
+    server.get("/menus", (req, res) => {
+        MenuController.getAll(req, res);
+    });
+
+    server.get("/menus/:id", (req, res) => {
+        MenuController.get(req, res);
+    });
+
 }

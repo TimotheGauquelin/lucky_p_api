@@ -1,17 +1,15 @@
 const mongoose = require("mongoose");
-
-// Récupération de la classe Schema de mongoose
 const Schema = mongoose.Schema;
 
-// Création du schema pour la collection movies
+// Création du schema Avis
 const ReviewSchema = new Schema({
     userName: String,
     review: String,
     note: Number
 });
 
-// Création du modèle qui prend en paramètre le schema que nous venons de créer
+// Instance du schema Avis
 const Review = mongoose.model("review", ReviewSchema);
 
-// Export du module Movie pour pouvoir l'utiliser dans le controller
+// Export du module Avis
 module.exports = Review;

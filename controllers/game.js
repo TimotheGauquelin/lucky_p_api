@@ -3,6 +3,8 @@ var mongoose = require('mongoose');
 
 
 module.exports = {
+
+    //GET ALL GAMES
     getAll(req, res) {
 
         Game.aggregate([
@@ -21,6 +23,7 @@ module.exports = {
 
     },
 
+    //GET ONE GAME BY ID
     get(req, res) {
         const id = req.params.id;
         const objId = mongoose.Types.ObjectId(id);
@@ -42,16 +45,6 @@ module.exports = {
             res.send(games)
         });
     },
-
-    // get(req, res) {
-    //     // Récupération de l'id qui a été véhiculé en paramètre de l'url /games/:id
-    //     const id = req.params.id;
-    //     console.log("Récupération du jeu avec l'id", id);
-
-    //     Game.findById(id).then(game => {
-    //         res.send(game);
-    //     });
-    // },
 
     // // Créer un nouveau film
     // create(req, res) {
