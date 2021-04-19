@@ -46,18 +46,26 @@ module.exports = {
         });
     },
 
-    // // Créer un nouveau film
-    // create(req, res) {
-    //     const movie = new Movie({
-    //         title: req.body.title,
-    //         duration: req.body.duration,
-    //         releaseDate: req.body.releaseDate
-    //     });
+    //POST ONE GAME
+    create(req, res) {
+        const game = new Game({
+            title: req.body.title,
+            preamble: req.body.preamble,
+            description: req.body.description,
+            nbMinPlayer: req.body.nbMinPlayer,
+            nbMaxPlayer: req.body.nbMaxPlayer,
+            difficulty: req.body.difficulty,
+            gameTimes: req.body.gameTimes,
+            quantity: req.body.quantity,
+            videoURL: req.body.videoURL,
+            minAge: req.body.minAge,
+            categories: req.body.categories
+        });
 
-    //     movie.save().then(() => {
-    //         res.send({ response: `Création du film ${movie.title}` });
-    //     });
-    // },
+        game.save().then(() => {
+            res.send({ response: `Création du jeu ${game.title}` });
+        });
+    },
 
     // // Supprimer un film
     // delete(req, res) {

@@ -5,7 +5,7 @@ const ObjectId = Schema.Types.ObjectId
 
 // Création du schema Jeu
 const GameSchema = new Schema({
-    _id: ObjectId,
+    // _id: ObjectId,
     title: String,
     preamble: String,
     description: String,
@@ -15,6 +15,8 @@ const GameSchema = new Schema({
     difficulty: Number,
     quantity: Number,
     minAge: Number,
+    videoURL: String,
+    // content: { type: Array, "default": [] },
     categories: { type: Array, "default": [] }
 });
 

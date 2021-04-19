@@ -46,6 +46,8 @@ module.exports = server => {
     });
 
 
+
+
     //GAMES ROUTES
 
     server.get("/games", (req, res) => {
@@ -54,6 +56,10 @@ module.exports = server => {
 
     server.get("/games/:id", (req, res) => {
         GameController.get(req, res);
+    });
+
+    server.post("/games", (req, res) => {
+        GameController.create(req, res);
     });
 
     //MENUS ROUTES
