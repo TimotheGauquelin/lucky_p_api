@@ -26,14 +26,6 @@ module.exports = server => {
         ReviewController.get(req, res);
     });
 
-    // server.post("/movies", (req, res) => {
-    //     MovieController.create(req, res);
-    // });
-
-    // server.delete("/movies", (req, res) => {
-    //     MovieController.delete(req, res);
-    // });
-
 
     //CATEGORIES ROUTES
 
@@ -64,6 +56,10 @@ module.exports = server => {
 
     server.put("/games/:id", (req, res) => {
         GameController.modify(req, res);
+    });
+
+    server.delete("/games", (req, res) => {
+        GameController.delete(req, res);
     });
 
 

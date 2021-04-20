@@ -74,16 +74,16 @@ module.exports = {
     // Modifier un film
     modify(req, res) {
         const id = req.body.id;
-        Movie.updateOne(id).then(movie => {
-            res.send({ response: `Modification de ${movie.title}` });
+        Game.updateOne(id).then(game => {
+            res.send({ response: `Modification de ${game.title}` });
+        });
+    },
+
+    // Supprimer un film
+    delete(req, res) {
+        const id = req.body.id;
+        Game.findByIdAndRemove(id).then(game => {
+            res.send({ response: `Suppression du film ${game.title}` });
         });
     }
-
-    // // Supprimer un film
-    // delete(req, res) {
-    //     const id = req.body.id;
-    //     Movie.findByIdAndRemove(id).then(movie => {
-    //         res.send({ response: `Suppression du film ${movie.title}` });
-    //     });
-    // }
 };
