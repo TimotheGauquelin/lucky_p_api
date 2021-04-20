@@ -58,7 +58,7 @@ module.exports = server => {
         GameController.modify(req, res);
     });
 
-    server.delete("/games", (req, res) => {
+    server.delete("/games/:id", (req, res) => {
         GameController.delete(req, res);
     });
 

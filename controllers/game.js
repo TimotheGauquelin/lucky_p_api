@@ -73,17 +73,34 @@ module.exports = {
 
     // Modifier un film
     modify(req, res) {
-        const id = req.body.id;
-        Game.updateOne(id).then(game => {
+
+        const id = req.params.id;
+
+        // const gameModify {
+        //     title: req.body.title,
+        //     preamble: req.body.preamble,
+        //     description: req.body.description,
+        //     nbMinPlayer: req.body.nbMinPlayer,
+        //     nbMaxPlayer: req.body.nbMaxPlayer,
+        //     difficulty: req.body.difficulty,
+        //     gameTimes: req.body.gameTimes,
+        //     quantity: req.body.quantity,
+        //     videoURL: req.body.videoURL,
+        //     minAge: req.body.minAge,
+        // });
+
+        Game.findByIdAndUpdate(id, { title: req.body.title, preamble: req.body.preamble, description: req.body.description, nbMinPlayer: req.body.nbMinPlayer, nbMaxPlayer: req.body.nbMaxPlayer, difficulty: req.body.difficulty, gameTimes: req.body.gameTimes, quantity: req.body.quantity, videoURL: req.body.videoURL, minAge: req.body.minAge }).then(game => {
             res.send({ response: `Modification de ${game.title}` });
         });
+
+
     },
 
     // Supprimer un film
     delete(req, res) {
-        const id = req.body.id;
+        const id = req.params.id;
         Game.findByIdAndRemove(id).then(game => {
-            res.send({ response: `Suppression du film ${game.title}` });
+            res.send({ response: `Suppression du jeu ${game.id}` });
         });
     }
 };
