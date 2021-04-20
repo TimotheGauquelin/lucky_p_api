@@ -74,6 +74,7 @@ module.exports = {
     // Modifier un film
     modify(req, res) {
 
+        let objectIdArray = req.body.categories.map(categories => mongoose.Types.ObjectId(categories));
         const id = req.params.id;
 
         // const gameModify {
@@ -89,7 +90,7 @@ module.exports = {
         //     minAge: req.body.minAge,
         // });
 
-        Game.findByIdAndUpdate(id, { title: req.body.title, preamble: req.body.preamble, description: req.body.description, nbMinPlayer: req.body.nbMinPlayer, nbMaxPlayer: req.body.nbMaxPlayer, difficulty: req.body.difficulty, gameTimes: req.body.gameTimes, quantity: req.body.quantity, videoURL: req.body.videoURL, minAge: req.body.minAge }).then(game => {
+        Game.findByIdAndUpdate(id, { title: req.body.title, preamble: req.body.preamble, description: req.body.description, nbMinPlayer: req.body.nbMinPlayer, nbMaxPlayer: req.body.nbMaxPlayer, difficulty: req.body.difficulty, gameTimes: req.body.gameTimes, quantity: req.body.quantity, videoURL: req.body.videoURL, minAge: req.body.minAge, categories: objectIdArray }).then(game => {
             res.send({ response: `Modification de ${game.title}` });
         });
 
