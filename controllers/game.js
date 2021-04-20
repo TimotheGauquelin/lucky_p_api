@@ -25,6 +25,7 @@ module.exports = {
 
     //GET ONE GAME BY ID
     get(req, res) {
+
         const id = req.params.id;
         const objId = mongoose.Types.ObjectId(id);
 
@@ -48,6 +49,9 @@ module.exports = {
 
     //POST ONE GAME
     create(req, res) {
+
+        let objectIdArray = req.body.categories.map(categories => mongoose.Types.ObjectId(categories));
+
         const game = new Game({
             title: req.body.title,
             preamble: req.body.preamble,
@@ -59,13 +63,21 @@ module.exports = {
             quantity: req.body.quantity,
             videoURL: req.body.videoURL,
             minAge: req.body.minAge,
-            categories: req.body.categories
+            categories: objectIdArray
         });
 
         game.save().then(() => {
             res.send({ response: `Création du jeu ${game.title}` });
         });
     },
+
+    // Modifier un film
+    modify(req, res) {
+        const id = req.body.id;
+        Movie.updateOne(id).then(movie => {
+            res.send({ response: `Modification de ${movie.title}` });
+        });
+    }
 
     // // Supprimer un film
     // delete(req, res) {

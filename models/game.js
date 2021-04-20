@@ -1,9 +1,10 @@
 const mongoose = require("mongoose");
 // Récupération de la classe Schema de mongoose
 const Schema = mongoose.Schema;
-const ObjectId = Schema.Types.ObjectId
+const ObjectId = Schema.Types.ObjectId;
 
 // Création du schema Jeu
+
 const GameSchema = new Schema({
     // _id: ObjectId,
     title: String,

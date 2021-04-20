@@ -62,6 +62,11 @@ module.exports = server => {
         GameController.create(req, res);
     });
 
+    server.put("/games/:id", (req, res) => {
+        GameController.modify(req, res);
+    });
+
+
     //MENUS ROUTES
 
     server.get("/menus", (req, res) => {
