@@ -30,7 +30,7 @@ server.listen(process.env.PORT || 5500, () => {
     const db = mongoose.connection;
     //     // once --> une fois que
     db.once("open", () => 
-        console.log("Connexion au serveur MongoDB et à la base Lucky P", db.collections()))
+        console.log("Connexion au serveur MongoDB et à la base Lucky P", db.collections))
     // .on("error", error => console.error("Problème durant la connexion", error));
 });
 
