@@ -15,7 +15,7 @@ server.use(express.json());
 
 server.use(cors());
 
-server.listen(5500, () => {
+server.listen(process.env.PORT || 5500, () => {
     console.log("Serveur lancé et écoute sur le port 5500");
 
     // Connexion à la base hello-mongo de notre serveur MongoDB
