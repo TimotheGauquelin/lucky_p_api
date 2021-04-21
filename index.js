@@ -20,7 +20,7 @@ server.listen(5500, () => {
 
     // Connexion à la base hello-mongo de notre serveur MongoDB
     // Les options ajoutées permettent de palier à des messages de warning mais aussi à utiliser les dernières améliorations de mongoose
-    mongoose.connect("mongodb://localhost:27017/luckyp", {
+    mongoose.connect("mongodb+srv://admin:password59@cluster0.lozix.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
         useNewUrlParser: true,
         useUnifiedTopology: true
     });
@@ -41,3 +41,4 @@ server.get("/bonjour", (req, res) => {
 
 // // Utilisation des routes précédemment chargées
 routes(server);
+
