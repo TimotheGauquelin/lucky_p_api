@@ -15,19 +15,22 @@ server.use(express.json());
 
 server.use(cors());
 
-server.listen(5500, () => {
+server.listen(process.env.PORT || 5500, () => {
     console.log("Serveur lancé et écoute sur le port 5500");
 
     // Connexion à la base hello-mongo de notre serveur MongoDB
     // Les options ajoutées permettent de palier à des messages de warning mais aussi à utiliser les dernières améliorations de mongoose
-    mongoose.connect("mongodb://localhost:27017/luckyp", {
+    mongoose.connect("mongodb+srv://admin:password59@cluster0.lozix.mongodb.net/luckyp", {
         useNewUrlParser: true,
         useUnifiedTopology: true
     });
 
+
+
     const db = mongoose.connection;
     //     // once --> une fois que
-    db.once("open", () => console.log("Connexion au serveur MongoDB et à la base Lucky P"))
+    db.once("open", () => 
+        console.log("Connexion au serveur MongoDB et à la base Lucky P", db.collections))
     // .on("error", error => console.error("Problème durant la connexion", error));
 });
 
@@ -41,3 +44,4 @@ server.get("/bonjour", (req, res) => {
 
 // // Utilisation des routes précédemment chargées
 routes(server);
+
