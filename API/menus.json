@@ -1,0 +1,739 @@
+[{
+  "_id": {
+    "$oid": "6078484903857407a8eb2afc"
+  },
+  "type": "Burger",
+  "name": "BURGER VÉGÉ",
+  "description": "Buns boulanger au maïs, Champignon Portobello garni de compotée de légumes grillés, mozza di buffala, pesto maison, tomate d’antan, roquette.",
+  "price": 15
+},{
+  "_id": {
+    "$oid": "6078484903857407a8eb2afd"
+  },
+  "type": "Burger",
+  "name": "CHEESE BURGER",
+  "description": "Buns boulanger multigraines, viande hachée normande française, tomate, oignons rouges, ketchup. Ajout bacon : +1 Choix de fromage : cheddar maturé, chèvre (+1) ou Vieux- Champagne Lelarge Pugeot Lille (+1).",
+  "price": 12
+},{
+  "_id": {
+    "$oid": "6078488d03857407a8eb2afe"
+  },
+  "type": "Burger",
+  "name": "FISH BURGER",
+  "description": "Buns boulanger à l’encre de seiche, saumon confit basse t°, agrumes, poivre Timut, mayo sriracha, chou kale, tomate green zebra.",
+  "price": 15
+},{
+  "_id": {
+    "$oid": "6078488d03857407a8eb2aff"
+  },
+  "type": "Burger",
+  "name": "BURGER DRY AGED",
+  "description": "Buns boulanger multigraines, viande hachée maturée à la moelle, compotée d’oignons balsamique, poitrine de porc ibérique marinée, sauce cheddar à la Tripel Lefort",
+  "price": 15
+},{
+  "_id": {
+    "$oid": "6078492e03857407a8eb2b00"
+  },
+  "type": "Burger",
+  "name": "FISH AND CHIPS",
+  "description": "lieu noir frais panure maison, épices du moment, frites fraîches, sauce tartare maison.",
+  "price": 13
+},{
+  "_id": {
+    "$oid": "6078492e03857407a8eb2b01"
+  },
+  "type": "Burger",
+  "name": "HOTDOG VÉGÉ",
+  "description": "Pain boulanger, saucisse vegan, ratatouille, pickles maison, farandole de germes.",
+  "price": 10
+},{
+  "_id": {
+    "$oid": "607849b903857407a8eb2b02"
+  },
+  "type": "Poutine",
+  "name": "FISH AND CHIPS",
+  "description": "Frites fraîches, cheddar affiné, sauce poutine (fond de veau, bière brune et pain d’épices).",
+  "price": 7.5
+},{
+  "_id": {
+    "$oid": "607849b903857407a8eb2b03"
+  },
+  "type": "Poutine",
+  "name": "STEAK",
+  "description": "Frites fraîches, cheddar affiné, sauce poutine, viande normande française hachée sur place.",
+  "price": 11.5
+},{
+  "_id": {
+    "$oid": "607849b903857407a8eb2b04"
+  },
+  "type": "Poutine",
+  "name": "VEGAN",
+  "description": "Frites fraîches, sauce salsa maison, faux-mage cheddar, seitan.",
+  "price": 12
+},{
+  "_id": {
+    "$oid": "60784a9403857407a8eb2b05"
+  },
+  "type": "Cocktail",
+  "name": "Majestique",
+  "description": "Vodka Absolut, purée de framboise, jus de citron vert, sirop d’érable, velours de Balsamique.",
+  "price": 9
+},{
+  "_id": {
+    "$oid": "60784a9403857407a8eb2b06"
+  },
+  "type": "Cocktail",
+  "name": "Tabarnak",
+  "description": "Whisky Canadien LOT40, purée de poire, jus de citron vert, sirop d’érable, bitter cannelle et cardamone.",
+  "price": 9.5
+},{
+  "_id": {
+    "$oid": "60784a9403857407a8eb2b07"
+  },
+  "type": "Cocktail",
+  "name": "Uncle Sam",
+  "description": "Bourbon Four Roses, Cointreau, jus de citron jaune, jus de pomme, purée de framboise, sucre de canne, menthe fraiche",
+  "price": 8.5
+},{
+  "_id": {
+    "$oid": "60784b0203857407a8eb2b08"
+  },
+  "type": "Cocktail",
+  "name": "Chien Tête en Bas",
+  "description": "Rhum Chik Chok, Cointreau, jus de citron jaune, sirop de chai maison, bitter pèche",
+  "price": 9
+},{
+  "_id": {
+    "$oid": "60784b0203857407a8eb2b09"
+  },
+  "type": "Cocktail",
+  "name": "Ciao Bella",
+  "description": "Rhum Havana Club Especial, Amaretto, jus de citron vert, purée de fraise et jus d’ananas",
+  "price": 8.5
+},{
+  "_id": {
+    "$oid": "60784b0203857407a8eb2b0a"
+  },
+  "type": "Cocktail",
+  "name": "Marché Princesse",
+  "description": "Chartreuse verte, jus de citron vert, sirop de concombre maison, sucre de canne, jus de pomme, menthe fraiche",
+  "price": 9
+},{
+  "_id": {
+    "$oid": "60784b5303857407a8eb2b0b"
+  },
+  "type": "Cocktail",
+  "name": "Maÿliss Spritz",
+  "description": "Lillet blanc, Gin Beefeater, sirop de fleurs de sureau, jus de citron, concombre, fraise et tonic.",
+  "price": 8.5
+},{
+  "_id": {
+    "$oid": "60784b5303857407a8eb2b0c"
+  },
+  "type": "Cocktail",
+  "name": "Strawberry Field",
+  "description": "Gin Beefeater, jus de citron vert, purée de fraise, feuilles de menthe et sirop de basilic maison.",
+  "price": 8.5
+},{
+  "_id": {
+    "$oid": "60784b5303857407a8eb2b0d"
+  },
+  "type": "Cocktail",
+  "name": "Ay Caramba !",
+  "description": "Téquila Altos pimentée par nos soins, jus de citron vert, purée de fruit de la passion, sucre de canne.",
+  "price": 9
+},{
+  "_id": {
+    "$oid": "60784bab03857407a8eb2b0e"
+  },
+  "type": "CocktailNoAlcool",
+  "name": "Lollipop",
+  "description": "Sirop de mûre, purée de fraise et jusde citron.",
+  "price": 5.5
+},{
+  "_id": {
+    "$oid": "60784bab03857407a8eb2b0f"
+  },
+  "type": "CocktailNoAlccol",
+  "name": "Bouquet Garni",
+  "description": "Sirop de fleurs de sureau, jus de citron vert, jus de pomme et Perrier",
+  "price": 5.5
+},{
+  "_id": {
+    "$oid": "60784d3b03857407a8eb2b10"
+  },
+  "type": "RedWine",
+  "name": "Mas Bres Luna 2017",
+  "description": "IGP Cevennes",
+  "price": 5,
+  "priceBottle": 27
+},{
+  "_id": {
+    "$oid": "60784d3b03857407a8eb2b11"
+  },
+  "type": "RedWine",
+  "name": "Cameleon 2018",
+  "description": "Malbec Argentin",
+  "price": 6,
+  "priceBottle": 32
+},{
+  "_id": {
+    "$oid": "60784d7f03857407a8eb2b12"
+  },
+  "type": "RedWine",
+  "name": "Château de Caraguilhes 2017",
+  "description": "AOP Corbières",
+  "price": 6.5,
+  "priceBottle": 35
+},{
+  "_id": {
+    "$oid": "60784d7f03857407a8eb2b13"
+  },
+  "type": "RedWine",
+  "name": "Va te faire boire 2018",
+  "description": "Bergerac",
+  "price": 6.5,
+  "priceBottle": 35
+},{
+  "_id": {
+    "$oid": "60784db903857407a8eb2b14"
+  },
+  "type": "RedWine",
+  "name": "Les Châtillons 2017",
+  "description": "AOP Reuilly",
+  "price": 7,
+  "priceBottle": 37
+},{
+  "_id": {
+    "$oid": "60784db903857407a8eb2b15"
+  },
+  "type": "WhiteWine",
+  "name": "Amountanage 2018",
+  "description": "AOC Luberon",
+  "price": 5,
+  "priceBottle": 27
+},{
+  "_id": {
+    "$oid": "60784de703857407a8eb2b16"
+  },
+  "type": "WhiteWine",
+  "name": "Cameleon 2018",
+  "description": "Chardonnay Argentin",
+  "price": 6,
+  "priceBottle": 32
+},{
+  "_id": {
+    "$oid": "60784de703857407a8eb2b17"
+  },
+  "type": "WhiteWine",
+  "name": "Le P’tit Barriot 2016",
+  "description": "AOC Côtes du Roussillon",
+  "price": 6.5,
+  "priceBottle": 35
+},{
+  "_id": {
+    "$oid": "60784e1803857407a8eb2b18"
+  },
+  "type": "WhiteWine",
+  "name": "Peiruda 2015",
+  "description": "IGP Comté de Tolosan",
+  "price": 7,
+  "priceBottle": 37
+},{
+  "_id": {
+    "$oid": "60784e1803857407a8eb2b19"
+  },
+  "type": "WhiteWine",
+  "name": "Goto",
+  "description": "DOC Prosecco Treviso (non bio)",
+  "price": 6,
+  "priceBottle": 32
+},{
+  "_id": {
+    "$oid": "60784f6203857407a8eb2b1a"
+  },
+  "type": "PinkWine",
+  "name": "Amountanage 2018",
+  "description": "IGP Méditéranée",
+  "price": 5,
+  "priceBottle": 27
+},{
+  "_id": {
+    "$oid": "60784f6203857407a8eb2b1b"
+  },
+  "type": "PinkWine",
+  "name": "Le Rosé de JB",
+  "description": "AOP Côtes de Provence",
+  "price": 6,
+  "priceBottle": 32
+},{
+  "_id": {
+    "$oid": "6078501403857407a8eb2b1c"
+  },
+  "type": "Champagne",
+  "name": "Champagne Lelarge Pugeot Extra brut",
+  "description": "Terroir de Vrigny Levures naturelles",
+  "price": 9,
+  "priceBottle": 70
+},{
+  "_id": {
+    "$oid": "6078501403857407a8eb2b1d"
+  },
+  "type": "Dessert",
+  "name": "COOKIE GÉANT",
+  "description": "aux pépites de chocolat",
+  "price": 4
+},{
+  "_id": {
+    "$oid": "6078507703857407a8eb2b1e"
+  },
+  "type": "Dessert",
+  "name": "MI-CUIT",
+  "description": "maison au chocolat",
+  "price": 6
+},{
+  "_id": {
+    "$oid": "6078507703857407a8eb2b1f"
+  },
+  "type": "Dessert",
+  "name": "PANNA COTTA",
+  "description": "fruits rouges, crumble Granola",
+  "price": 6
+},{
+  "_id": {
+    "$oid": "607850ca03857407a8eb2b20"
+  },
+  "type": "Dessert",
+  "name": "CHEESECAKE",
+  "description": "spéculoos & coulis fruits rouges",
+  "price": 6
+},{
+  "_id": {
+    "$oid": "607850ca03857407a8eb2b21"
+  },
+  "type": "Dessert",
+  "name": "JARDIN VEGAN",
+  "description": "usse au chocolat SaintDomingue 70%, meringue àl’aquafaba, nougatine sésame et fruits rouges",
+  "price": 7
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e940609"
+  },
+  "type": "Planche",
+  "name": "Mixte",
+  "description": "Charcuteries tranchées sur place et fromage A.O.P",
+  "price": "14"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e94060a"
+  },
+  "type": "Planche",
+  "name": "Vegan",
+  "description": "Hummus, tapenades d'olives noires et de tomates séchées, muhammara, guacamole, légumes croquants. Le tout homemade",
+  "price": "14"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e94060b"
+  },
+  "type": "Soft",
+  "name": "Jus Bio",
+  "description": "Pomme, Orange, Grenade-Pomme, Abricot, Tomate (non bio)",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e94060c"
+  },
+  "type": "Soft",
+  "name": "Charitea Bio Maté",
+  "description": "Maté glacé citron et orange",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e94060d"
+  },
+  "type": "Soft",
+  "name": "Charitea Bio Red",
+  "description": "Rooibos glacé fruits de la passion",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e94060e"
+  },
+  "type": "Soft",
+  "name": "Lemonaid Bio",
+  "description": "Limonade citron vert",
+  "price": "4.5"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e94060f"
+  },
+  "type": "Soft",
+  "name": "Ritual Kombucha Bio",
+  "description": "Thé pétillant fermenté au gingembre et curcuma",
+  "price": "4.5"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e940610"
+  },
+  "type": "Soft",
+  "name": "Fritz Spritz Bio",
+  "description": "Rhubarbe - Vegan",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e940611"
+  },
+  "type": "Soft",
+  "name": "Fritz Kola",
+  "description": "Cola / Cola Zero - Vegan",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e940612"
+  },
+  "type": "Soft",
+  "name": "Badoit",
+  "price": "3.5"
+},{
+  "_id": {
+    "$oid": "607885d949a7b0ba9e940613"
+  },
+  "type": "Soft",
+  "name": "Schweppes Tonic",
+  "price": "3.5"
+},{
+  "_id": {
+    "$oid": "6078882049a7b0ba9e940614"
+  },
+  "type": "Tea",
+  "name": "Mangoustan Vert Bio",
+  "description": "Le Mangoustan est un des fruits les plus riches en antioxydants naturels. Pas pour rien qu'on le surnomme le 'fruit des dieux.",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "6078882049a7b0ba9e940615"
+  },
+  "type": "Tea",
+  "name": "Chaï de Bombay",
+  "description": "Très noir épicé, fruité et vanillé. Un aller simple pour le pays des yagis.",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "6078882049a7b0ba9e940616"
+  },
+  "type": "Tea",
+  "name": "Pêche Tranquille Bio",
+  "description": "Rooibos aux arômes de pêche, vanille et cardamome. Un thé rouge d'Afrique du Sud parfait contre les insomnies.",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "6078882049a7b0ba9e940617"
+  },
+  "type": "Tea",
+  "name": "Oolong Vanille Orchidée",
+  "description": "A mi-chemin entre thé noir et vert. Un bonheur pour les indécis ! Saveurs florales et sucrées.",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "6078882049a7b0ba9e940618"
+  },
+  "type": "Tea",
+  "name": "Ginger Beer Bio",
+  "description": "Tisane épicée et fruitée, elle saura parfaitement satisfaire vos papilles en fin de repas.",
+  "price": ""
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e940619"
+  },
+  "type": "Coffee",
+  "name": "Expresso",
+  "price": "1.9"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e94061a"
+  },
+  "type": "Coffee",
+  "name": "Déca",
+  "price": "2"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e94061b"
+  },
+  "type": "Coffee",
+  "name": "Double Expresso",
+  "price": "3"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e94061c"
+  },
+  "type": "Coffee",
+  "name": "Grand Crème",
+  "price": "3.2"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e94061d"
+  },
+  "type": "Coffee",
+  "name": "Cappucino",
+  "price": "3.5"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e94061e"
+  },
+  "type": "Coffee",
+  "name": "Chocolat",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e94061f"
+  },
+  "type": "Coffee",
+  "name": "Chocolat Viennois",
+  "description": "Disponible au lait végétal",
+  "price": "4.3"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e940620"
+  },
+  "type": "Coffee",
+  "name": "Latte Macchiato",
+  "description": "Choisis ton sirop : Caramel salé, Noisette Grillée, Chocolat Cookie, Chai, Tea. Disponible au lait végétal.",
+  "price": "4.3"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e940621"
+  },
+  "type": "Coffee",
+  "name": "Charcoal Latte",
+  "description": "Lait végétal, sirop d'érable, charbon végétal actif",
+  "price": "4"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e940622"
+  },
+  "type": "Coffee",
+  "name": "Turmeric Latte",
+  "description": "Lait végétal, mix maison de curcuma, gingembre, poivre et cannelle",
+  "price": "4.5"
+},{
+  "_id": {
+    "$oid": "607899a549a7b0ba9e940623"
+  },
+  "type": "Coffee",
+  "name": "Irish Coffee",
+  "description": "Whisky, café, sucre de canne, chantilly. Disponible avec du rhum, du LOT40, de l'Ameretto, de la Voska ou du Cognac",
+  "price": "7.5"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e940624"
+  },
+  "type": "DraughtBeer",
+  "name": "Lilloise",
+  "description": "Pils blonde légèrement dorée, compacte et offrant une fine mousse. Goût brièvement malté, un peu amer, riche et équilibré.",
+  "price": "3",
+  "priceBottle": "5"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e940625"
+  },
+  "type": "DraughtBeer",
+  "name": "Petrus Rouge",
+  "description": "Bière fruitée présentant un équilibre idéal entre amerture et douceur, longue en bouche, douce, fraîche et fruitée à la fois.",
+  "price": "4",
+  "priceBottle": "7"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e940626"
+  },
+  "type": "DraughtBeer",
+  "name": "Triple Lefort",
+  "description": "Bière blonde-dorée équilibrée et complexe. Haute fermentation qui donne des arômes fruités, de vanille, de clou de girofle et d'agrume.",
+  "price": "4",
+  "priceBottle": "7"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e940627"
+  },
+  "type": "DraughtBeer",
+  "name": "La Frère",
+  "description": "Bière blonde artisanale brassée par les copains du Gallodrome. Elle transpire le houblon et se caractérise par des notes fruitées et une légère amertume.",
+  "price": "4.5",
+  "priceBottle": "7"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e940628"
+  },
+  "type": "DraughtBeer",
+  "name": "MacTavish",
+  "description": "Bière québécoise inspirée des Pale Ales américaines. Elle se distingue par ses saveurs sucrées et tropicales sublimées par des épices du Nouveau Monde.",
+  "price": "4.5",
+  "priceBottle": "8"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e940629"
+  },
+  "type": "DraughtBeer",
+  "name": "La Cuvée des Trolls",
+  "description": "Bière blonde non filtrée et donc naturellement trouble. Très peu amère. Arômes fruités des plus agréables. Quelques notes d'agrumes et de fleurs à miel pour une belle complexité aromatique.",
+  "price": "4",
+  "priceBottle": "7"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e94062a"
+  },
+  "type": "DraughtBeer",
+  "name": "Jade Hope Bio",
+  "description": "Bière blonde aux reflets cuivrés. Ses malts et houblons 100% bio des Flandres lui confèrent une parfaite amertume et la rendent très rafraîchissante.",
+  "price": "4",
+  "priceBottle": "7"
+},{
+  "_id": {
+    "$oid": "60789f6649a7b0ba9e94062b"
+  },
+  "type": "DraughtBeer",
+  "name": "Wittekerke",
+  "description": "Bière blanche belge de haute fermentation. Arômes fruités et de céréales, goût riche et varié. Au départ, 'Wittekerke' est une série télévisée diffusée en Belgique. Suite à son grand succès, les producteurs ont eu l'idée de créer une bière au nom de la série.",
+  "price": "4",
+  "priceBottle": "7"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e94062c"
+  },
+  "type": "DraughtBeer",
+  "name": "Bière de Célestin",
+  "description": "Notre équipe sélectionne une bière par mois concoctée dans les cuves magiques de la micro-brasserie Célestin (Vieux-Lille).",
+  "price": "4",
+  "priceBottle": "7"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e94062d"
+  },
+  "type": "BottledBeer",
+  "name": "Delta IPA",
+  "description": "IPA belge aux notes savoureuses de fruits de la passion, de litchi et de citron.",
+  "price": "",
+  "priceBottle": "6"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e94062e"
+  },
+  "type": "BottledBeer",
+  "name": "Babylone",
+  "description": "Première bière brassée avec du pain recyclé, elle offre des saveurs de houblons, de caramel et une amertume puissante.",
+  "price": "",
+  "priceBottle": "6"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e94062f"
+  },
+  "type": "BottledBeer",
+  "name": "Brunehaut",
+  "description": "Bière blonde belge bio sans gluten. Elle développe un nez floral et une bouche fruitée et herbacée.",
+  "price": "",
+  "priceBottle": "5"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e940630"
+  },
+  "type": "BottledBeer",
+  "name": "Westmalle Dubbel",
+  "description": "Bière Trappiste brune aux arômes puissants de caramel et de réglisse légèrement brûlés.",
+  "price": "",
+  "priceBottle": "5"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e940631"
+  },
+  "type": "Cider",
+  "name": "Cidre Brut Bio",
+  "price": "",
+  "priceBottle": "5"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e940632"
+  },
+  "type": "Cider",
+  "name": "Cidre Poiré",
+  "price": "",
+  "priceBottle": "5"
+},{
+  "_id": {
+    "$oid": "6078a1e749a7b0ba9e940633"
+  },
+  "type": "Cider",
+  "name": "Cidre Rosé",
+  "price": "",
+  "priceBottle": "5"
+},{
+  "_id": {
+    "$oid": "607c3173847c436cef1e6c2e"
+  },
+  "type": "Brunch",
+  "name": "Bol D'Açaï",
+  "description": "Puddin de chia au lait végétal et sirop d'érable, baies d'açaï, fruits frais, granola maison, mélange de graines",
+  "price": "10"
+},{
+  "_id": {
+    "$oid": "607c3173847c436cef1e6c2f"
+  },
+  "type": "Brunch",
+  "name": "The Gaufre",
+  "description": "3 quarts salés : Oeufs pochés, bacon, espuma mimolette de la Côte d'Opale, méli mélo de salade fraicheur du moment. 1 quart sucré : inspiration du chef et fruits frais de saison",
+  "price": "16"
+},{
+  "_id": {
+    "$oid": "607c31c4847c436cef1e6c30"
+  },
+  "type": "Brunch",
+  "name": "Pancake Power",
+  "description": "Crispy bacon, courgette grillée, oeufs bio, sirop d'érable, pancakes",
+  "price": "15"
+},{
+  "_id": {
+    "$oid": "607c31c4847c436cef1e6c31"
+  },
+  "type": "Brunch",
+  "name": "Pancakes",
+  "description": "Trois pancakes sucrés au sirop d'érable ou pâte chocolatée",
+  "price": "7"
+},{
+  "_id": {
+    "$oid": "607c3240847c436cef1e6c32"
+  },
+  "type": "Brunch",
+  "name": "Brioche Perdue",
+  "description": "Brioche d'AOP de chez Degruson, fraises à l'huile d'olive et citron vert, chantilly mascarpone fèves de tonca, menthe poivrée",
+  "price": "10"
+},{
+  "_id": {
+    "$oid": "607c3240847c436cef1e6c33"
+  },
+  "type": "Brunch",
+  "name": "Poutine Déjeuner",
+  "description": "Frites de patates douces, sauce parmesan, concassé de tomates, pesto basilic, fenouil rôti, râpé de brocolis",
+  "price": "15"
+},{
+  "_id": {
+    "$oid": "607c32fd847c436cef1e6c34"
+  },
+  "type": "Brunch",
+  "name": "Oeufs bénédictines au saumon fumé",
+  "description": "Deux oeufs pochés bio, fenouil rôti servis sur un pain muffin anglais à l'encre de seiche. Accompagné de deux gaufres pommes de terre maison et fruits frais",
+  "price": "16"
+},{
+  "_id": {
+    "$oid": "607c32fd847c436cef1e6c35"
+  },
+  "type": "Brunch",
+  "name": "L'assiette Vegan",
+  "description": "Gaufre Végane, brouillade de tofu au curcuma, fèves au sirop d'érable, salade de lentille et betterave. Choix de pancakes vegans ou pain complet. Servi avec frites de patates douces et mini açaï bowl",
+  "price": "21"
+},{
+  "_id": {
+    "$oid": "607c3378847c436cef1e6c37"
+  },
+  "type": "Brunch",
+  "name": "L'assiette Brunch",
+  "description": "Trois oeufs bio à votre façon, bacon, saucisse, fèves au sirop d'érable. Choix de pancakes ou de pain complet. Servi avec deux gaufres pommes de terre maison et fruits frais",
+  "price": "21"
+}]

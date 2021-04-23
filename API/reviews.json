@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6073fb1322bdcca9ecc370da"
+  },
+  "userName": "Swany P",
+  "review": "C'était très bon ! ",
+  "note": 4
+},{
+  "_id": {
+    "$oid": "6073fc1122bdcca9ecc370db"
+  },
+  "userName": "Félix D",
+  "review": "La Poutine est pas mal, mais j'ai connu mieux",
+  "note": 3
+},{
+  "_id": {
+    "$oid": "6073fc1122bdcca9ecc370dc"
+  },
+  "userName": "Timothé G",
+  "review": "Nul ! Totalement nul",
+  "note": 1
+},{
+  "_id": {
+    "$oid": "60745025ab522d349c8306a5"
+  },
+  "userName": "Fra",
+  "review": "On y a brunché un samedi midi, c'était succulent. Les plats sont joliment préparés, c'est très copieux et très bon. Le tout dans une atmosphère sympa et assez calme. N'hésitez pas à profiter des très nombreux jeux disponibles pour vous occuper toute l'après midi. Je recommande à 200%",
+  "note": 5
+},{
+  "_id": {
+    "$oid": "60745025ab522d349c8306a6"
+  },
+  "userName": "Kayu tdzski",
+  "review": "Délicieux, chaleureux, serveurs au top, service rapide, cadre agréable, bref, si j'habitais Lille, je serais la cliente numéro une sans hésiter. Bises",
+  "note": 5
+},{
+  "_id": {
+    "$oid": "60745025ab522d349c8306a7"
+  },
+  "userName": "Marion Wattel",
+  "review": "J'adore le concept du bar à jeux ou l'on peut commander à boire et à manger en bandes ou petit comité ! Un choix bio ou végé est possible, les serveurs sont bien marrants, très bonne ambiance que je recommande grandement",
+  "note": 5
+},{
+  "_id": {
+    "$oid": "60745205ab522d349c8306a8"
+  },
+  "userName": "Valentin Trioux",
+  "review": "Lieu atypique au coeur du vieux Lille. Parfait pour les amoureux des jeux de société, on y mange également très bien.",
+  "note": 4
+},{
+  "_id": {
+    "$oid": "60745205ab522d349c8306a9"
+  },
+  "userName": "Thierry MARCHISIO",
+  "review": "J'ai vécu presque 10 ans au Québec et en venant dans ce restaurant, j'ai fait un bond dans La Belle Province ! Ambiance chaleureuse, jeux de société à volonté, repas de là-bas (adaptés aux français quand même) Un endroit où petits et grands passent un merveilleux moment !",
+  "note": 5
+},{
+  "_id": {
+    "$oid": "60745205ab522d349c8306aa"
+  },
+  "userName": "Patrick Laurent",
+  "review": "Lieu original et convivial. Les bons conseils des 'sommeliers' du jeu sont les bienvenus ! Sympa 😊",
+  "note": 5
+},{
+  "_id": {
+    "$oid": "60745205ab522d349c8306ab"
+  },
+  "userName": "Grégory DUQUENNE",
+  "review": "Du jeu, de l'ambiance, des animateurs exceptionnels, un lieu agréable et bruyant des éclats de rire... De la bonne bière. Compter 4 euros par personne pour jouer (animateur partagé inclus 😂). 1euro de moins par pinte de bière serai parfait",
+  "note": 4
+},{
+  "_id": {
+    "$oid": "60745291ab522d349c8306ac"
+  },
+  "userName": "Matthieu F",
+  "review": "Très bon concept ! Tout y est excellent : l'ambiance, les jeux recommandés par les 'sommeliers', les plats et bien sûr les bières !",
+  "note": 5
+}]

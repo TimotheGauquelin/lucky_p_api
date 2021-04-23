@@ -1,0 +1,834 @@
+[{
+  "_id": {
+    "$oid": "60744c0e0609e8818a370a64"
+  },
+  "title": "7 Wonders DUEL",
+  "preamble": "Triomphez de votre adversaire en développant et améliorant votre civilisation sur les plans civil, scientifique et militaire.",
+  "description": "De bien des façons, 7 Wonders Duel ressemble à son grand-frère 7 Wonders. Les joueurs acquièrent des cartes au cours de trois âges, ces dernières fournissant des ressources ou faisant progresser leur développement militaire ou scientifique afin de développer leur civilisation ou bâtir des merveilles. Ce qui est différent avec 7 Wonders Duel, c'est que, comme le titre le suggère, le jeu est uniquement pour deux joueurs. Ces derniers ne tirent pas simultanément des cartes à partir de mains de cartes, mais à partir d'un mélange de cartes face cachée et face visible disposées en formation pyramidale au début de chaque âge. Un joueur ne peut prendre une carte que si elle n'est pas couverte par d'autres. Le timing et les choix que vous allez faire sont cruciaux. Comme dans le jeu original, chaque carte que vous acquérez peut être construite, défaussée pour des pièces de monnaie ou utilisée pour construire une merveille. Chaque joueur commence avec quatre cartes merveille, et la construction d'une merveille donne à son propriétaire une capacité spéciale. Cependant, seulement sept merveilles peuvent être construites, de sorte qu'un joueur se retrouvera dans l'impossibilité de bâtir ses quatre. Les joueurs peuvent acheter des ressources à tout moment, ou ils peuvent acquérir des cartes au cours de la partie qui leur fourniront des ressources pour la construction fu",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 2,
+  "difficulty": 2,
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 10,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    },
+    {
+      "$oid": "6074503521882cb44ef430ba"
+    }
+  ],
+  "videoURL": "ZvloQqlwHCM",
+  "content": [
+    "1 plateau de jeu",
+    "23 Cartes Age I",
+    "23 Cartes Age II",
+    "20 Cartes Age III",
+    "7 Cartes Guilde",
+    "12 Cartes Merveille",
+    "4 Jetons Militaire",
+    "10 Jetons Progrès",
+    "1 Pion Conflit",
+    "31 Pièces de Monnaie",
+    "1 Carnet des scores",
+    "1 Règle du jeu",
+    "1 Aide de jeu"
+  ]
+},{
+  "_id": {
+    "$oid": "6074501b0609e8818a370a65"
+  },
+  "title": "Paku Paku",
+  "preamble": "À vos marques. Prêts? MANGEZ ! Lancez vos dés le plus vite possible. Face verte : passez le dé à votre voisin ! Face rouge: déposez un bol sur la pile ! N'ayez pas trop de dés et ne faites pas tomber la pile de vaisselle pour remporter la partie !",
+  "description": "Une fois encore les plus grands pandas d'Asie se retrouvent pour un concours à la vie, à la ? boulette de riz. Et comme chaque année, il ne pourra en rester qu'un : Celui pour qui une assiette n'est jamais assez pleine ! Celui dont l'estomac est aussi puissant que sa volonté ! Celui qui sera aussi adroit qu'affamé ! Lancez vos dés le plus vite possible !! Une face verte ? Ouuuuf ! Passez vite le dé à votre voisin ! Une face rouge ? Oh non ! Déposez un bol sur la pile de vaiselle, ce qui vous fait perdre de précieuses secondes. Rapidement la vaiselle s'entasse et la pile devient de plus en plus haute. Le joueur qui aura trop de dés devant lui ou fera tomber la pile de vaisselle recevra des points négatifs ! Seul le panda le plus rapide ET le plus habile remportera la partie ! Alors à vos marques. Prêts ? MANGEZ!!!",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 8,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b5"
+    }
+  ],
+  "videoURL": "Cwb2XqbvqUA"
+},{
+  "_id": {
+    "$oid": "6074501b0609e8818a370a66"
+  },
+  "title": "Qwixx",
+  "preamble": "6 dés et un petit carnet, voilà l'image même d'un petit jeu d'apéro. A chaque lancer de dés, chaque joueur peut marquer une ou deux petites croix pour compléter les séries de couleur de son carnet. C'est ce qui est sympa dans Qwixx: tout le monde joue à chaque lancer de dés, on n'attend pas son tour. Un peu de chance, de prise de risque et un brin de tactique en font un petit jeu simple et sympathique, qui se joue en un quart d'heure.",
+  "description": "Avec Qwixx, impossible de s’ennuyer : à son tour, chaque joueur lance les dés et tout le monde peut utiliser le résultat pour cocher un chiffre d’une de ses rangées. Plus vous cochez de cases, plus vous marquez de points. Mais attention, les chiffres sont classés dans un certain ordre et une fois que vous en avez passé impossible de revenir en arrière. Laissez-vous emporter par la simplicité de ce jeu de dés palpitant !",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 5,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    },
+    {
+      "$oid": "6074503521882cb44ef430b8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60745c850609e8818a370a67"
+  },
+  "title": "It's a Wonderful World",
+  "preamble": "Vous êtes à la tête d’un Empire en développement. Allez-vous privilégier la voie de la Finance, de la Guerre, de la Science, ou peut-être une toute autre voie ? Développez votre Empire pour qu’il devienne le meilleur des mondes !",
+  "description": "Dans It's a Wonderful World, incarnez un Empire en plein développement. Affrontez vos adversaires et régnez en maître sur le monde. Dans ce jeu de draft de cartes et de moteur de ressources, vous êtes à la tête d’un Empire en expansion. La finance, la guerre, le science ou alors une toute autre voie. Quelle sera votre stratégie pour vous imposer face à vos concurrents ? Développez votre Empire pour qu’il devienne le meilleur des mondes en combinant de multiples stratégies !",
+  "nbMinPlayer": 1,
+  "nbMaxPlayer": 5,
+  "difficulty": 3,
+  "gameTimes": "(30 - 60)",
+  "quantity": 1,
+  "minAge": 14,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60745c850609e8818a370a68"
+  },
+  "title": "Galerapagos",
+  "preamble": "Dans ce jeu semi-coopératif, les joueurs forment un groupe de rescapés sur une île déserte après le naufrage d'un bateau. Afin de s'en sortir, les survivants n'ont d'autre choix que de s'unir dans la construction d'un radeau.",
+  "description": "Après le naufrage de votre bateau, vous faites partie d’un groupe de survivants bloqué sur une île déserte. Si la mer, la plage et le soleil font rêver d’ordinaire les vacanciers, il en est autrement pour vous. La vie est difficile. Les portions d’eau sont comptées et le poisson se fait rare. Avec un tel régime, il n’est pas certain que tout le monde survive. Vous n’avez pas le choix : vous devez vous entraider pour quitter l’île.Pour quitter cette île, vous n’avez qu’une seule solution : rassembler vos forces pour construire ensemble un grand radeau. Mais il ne faut pas tarder car les nuages à l’horizon indiquent l’arrivée d’un dangereux ouragan. Faites équipe pour survivre mais soyez prêt à sacrifier vos camarades en cas de pénurie. Diplomatie et fourberies seront des éléments importants de votre survie. Soyez malin, utile et ne vous mettez personne à dos. Votre place sur le radeau en dépend !",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 10,
+  "difficulty": 2,
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "607448cf0609e8818a370a5f"
+  },
+  "title": "Exploding Kittens",
+  "preamble": "Exploding Kittens revisite le principe de la roulette russe dans un jeu de cartes déjantés avec des chatons et de la dynamite !",
+  "description": "Exploding Kittens revisite la célèbre Roulette Russe dans un jeu de cartes où les chatons côtoient d’un peu trop près grenades, missiles nucléaires et torpilles dans un cocktail détonant ! À tour de rôle, les joueurs piochent des cartes du paquet jusqu’à ce qu’un joueur révèle un chaton explosif, provoquant sa mort et sa défaite pour la partie en cours. Les autres cartes permettent aux joueurs de se protéger des déflagrations, de forcer les autres à piocher plus ou à regarder les prochaines cartes avant de remélanger le tout. Le joueur qui a réussi à éviter toutes les explosions remporte la partie !",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 5,
+  "difficulty": "1",
+  "gameTimes": "(15 - 30)",
+  "quantity": 2,
+  "minAge": 7,
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    }
+  ],
+  "content": [
+    "56 Cartes",
+    "1 Poster des règles "
+  ]
+},{
+  "_id": {
+    "$oid": "607448cf0609e8818a370a60"
+  },
+  "title": "Exploding Kittens : NSFW Edition ",
+  "preamble": "Exploding Kittens : NSFW Edition est une version strictement réservé aux adultes du célèbre jeu qui revisite la roulette russe",
+  "description": "Dans cette nouvelle version plus trash et seulement pour adultes de la roulette russe, prenez garde aux chatons qui explosent, sous peine d'être éliminé de la partie ! Afin d’éviter un sort cruel aux matous, les joueurs peuvent utiliser des cartes spéciales pour attaquer les autres participants, regarder la pile ou déplacer le chat explosif ! Exploding Kittens : NSFW Edition est une version strictement réservé aux adultes du célèbre jeu qui revisite la roulette russe",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 5,
+  "difficulty": "1",
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 18,
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    },
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    }
+  ],
+  "content": [
+    "56 Cartes",
+    "1 Poster des règles"
+  ]
+},{
+  "_id": {
+    "$oid": "60744a0f0609e8818a370a61"
+  },
+  "title": "Les loups-garous de Thiercelieux",
+  "preamble": "Dans l'Est sauvage, le petit hameau de Thiercelieux est devenu la proie des loups-garous. Les villageois, qui ont décidé de ne plus se laisser faire, prennent les choses en main.",
+  "description": "Les Loups-Garous de Thiercelieux, un jeu d'ambiance Thiercelieux est un joli petit village de l'Est, bien à l'abri des vents et du froid, niché entre de charmantes forêts et de bons pâturages. Les habitants de Thiercelieux sont d'affables paysans, heureux de leur tranquillité et fiers de leur travail. Mais voilà que cette paisible vie est troublée depuis quelques temps par des attaques incessantes de loups-garous. Les habitants du village se doivent de réagir avant de tous y passer. Les Loups-Garous de Thiercelieux, un jeu de bluff. Derrière le décor idyllique de ce petit hameau, se cache un jeu de bluff redoutable. Les Loups-Garous de Thiercelieux est un jeu d'ambiance, presqu'un mini jeu de rôle où s'affrontent deux camps. Les villageois d'un côté et les loups-garous de l'autre. L'histoire est chaperonner par un maître du jeu qui en fait le récit. Au début de la partie, chaque joueur reçoit une carte de rôle. Mais attention, celle-ci ne doit pas être révélée aux autres participants. Les objectifs de chaque camp sont antagonistes. Les loups-garous doivent manger les villageois, tandis que ces derniers doivent tuer les loups-garous pour se défendre. Les Loup-Garous de Thiercelieux, une mécanique de jeu en deux phases. Une partie se déroule en deux phases. Une phase de nuit, où les loups-garous, sans se révéler, doivent désigner un joueur pour le dévorer. Et une phase de jour, où les villageois, qui viennent de découvrir la victime de la nuit dernière, débattent pour désigner un bouc émissaire pour le sacrifier. ",
+  "nbMinPlayer": 6,
+  "nbMaxPlayer": 15,
+  "difficulty": "1",
+  "gameTimes": "(30 - 60)",
+  "quantity": 2,
+  "minAge": 10,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    }
+  ],
+  "content": [
+    "24 Cartes",
+    "1 Livret des règles"
+  ]
+},{
+  "_id": {
+    "$oid": "60744a0f0609e8818a370a62"
+  },
+  "title": "Kingdomino",
+  "preamble": "Avec Kingdomino, constituez-vous le plus beau des royaumes en récupérant les meilleures parcelles. Soyez le plus malin, les autres châtelains ne vous feront aucun cadeau !",
+  "description": "Dans Kingdomino, vous incarnez un Seigneur en quête de terres pour étendre son Royaume. Vous devrez explorer toutes les parcelles afin de sélectionner celles qui correspondront le mieux à votre domaine. Champs de blé, lacs, mines, prairies ou encore forêts, les possibilités sont infinies. Mais attention, toutes ces zones ne se valent pas. Certaines seront âprement disputées. Il faudra alors être rusé et féroce. La splendeur de votre Royaume en dépend ! Kingdomino, un jeu aussi simple qu'efficace. Kingdomino est un jeu de dominos dont la difficulté s'adapte au niveau des joueurs. Le but du jeu est simple : vous devez constituer un Royaume de 5 cases par 5 autour de votre château tout en engrangeant un maximum de points. Toutes les tuiles n'ont pas la même valeur. Pour vous rapporter des points, celles-ci doivent comporter une couronne. Combinez alors les différentes zones pour constituer un domaine avec une forte valeur. Sélectionnez bien vos tuiles et refroidissez les ardeurs des autres Seigneurs ! Kingdomino, un jeu de dominos avec une mécanique originale. Le jeu reprend le principe des dominos mais intègre un système de draft inédit. 3 tuiles numérotées sont disposées au centre de la table par ordre croissant. Une fois placées, elles sont retournées, laissant apparaître les différents paysages qu'elles comportent. Le premier joueur choisit la tuile qui l'intéresse et place son meeple dessus. Une fois que tous les joueurs ont sélectionné leur domino, trois autres tuiles sont placées sur la table selon le même mécanisme. Cette fois, c'est le joueur qui avait choisi la tuile la plus basse qui jouera le premier. Il aura donc la possibilité choisir, s'il le souhaite, la tuile qui a la plus forte valeur. Cette mécanique finement pensée fait tout l'intérêt du jeu. Il faudra mettre en place une stratégie pour mettre la main sur les tuiles les plus intéressantes et surtout bien choisir le moment où il faut jouer en premier.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 4,
+  "difficulty": "1",
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "content": [
+    "4 tuiles de départ",
+    "4 châteaux en 3D",
+    "48 dominos",
+    "8 roi en bois"
+  ]
+},{
+  "_id": {
+    "$oid": "60744c0e0609e8818a370a63"
+  },
+  "title": "Dixit",
+  "preamble": "Laissez-vous inspirer par ses illustrations poétiques..! Dixit est un jeu de société qui vous emmène dans un monde onirique où de douces illustrations vous serviront d'inspiration pour de belles envolées poétiques.",
+  "description": "On distribue six (sept à 3 joueurs) cartes à chaque joueur. Le jeu se décompose ensuite en trois phases : La phrase du conteur. À chaque tour, l'un des joueurs est conteur, c'est-à-dire que c'est lui qui va lancer une phrase en rapport avec l'une de ses six cartes (sept à 3 joueurs).",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 6,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 3,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    }
+  ],
+  "content": [
+    "1 Plateau de jeu",
+    "84 Cartes de grand format",
+    "6 Pions lapin en bois",
+    "36 Cartons",
+    "1 Livret des règles"
+  ]
+},{
+  "_id": {
+    "$oid": "6078c5ff49a7b0ba9e940634"
+  },
+  "title": "Dominion",
+  "preamble": "Vous êtes le souverain d'un paisible royaume verdoyant. Vous rêvez d’étendre ce royaume et de le rendre plus grand et plus riche. Il vous faut un véritable Dominion !",
+  "description": "Vous êtes le souverain d'un paisible royaume verdoyant. Vous rêvez d’étendre ce royaume et de le rendre plus grand et plus riche. Il vous faut un véritable Dominion ! En unifiant sous votre bannière les nombreux fiefs au bord de l'anarchie qui vous entourent, vous leur apporterez paix et civilisation. Mais d'autres monarques partagent vos ambitions. Vous devrez agir promptement afin d'acquérir le plus de terres possible ! Pour parvenir à vos fins, vous recruterez des laquais, vous construirez des bâtiments et vous entretiendrez le confort de votre château, sans oublier de remplir les coffres de votre trésorerie.Dans Dominion, chaque joueur commence avec un petit paquet de cartes identique. Au centre de la table se trouve une sélection d'autres cartes que les joueurs peuvent 'acheter' au fur et à mesure qu'ils peuvent se le permettre. Grâce à leur sélection de cartes à acheter, et la façon dont ils jouent leurs mains, les joueurs construisent leur paquet à la volée, s'efforçant de trouver le chemin le plus efficace vers les précieux points de victoire à la fin du jeu.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 4,
+  "difficulty": "2",
+  "gameTimes": "(30 - 60)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    }
+  ],
+  "content": []
+},{
+  "_id": {
+    "$oid": "6078c99e49a7b0ba9e940636"
+  },
+  "title": "Abalone",
+  "preamble": "Grand classique du jeu abstrait pour deux, Abalone vous invite à tenter d'éjecter d'un plateau hexagonal six billes de votre adversaire en les poussant avec les vôtres. ",
+  "description": "Le jeu de société Abalone revient dans une nouvelle version modernisée ! Célèbre jeu abstrait créé en 1988, Abalone se présente sous la forme d’un plateau ou tablier de jeu hexagonal, suportant 28 billes blanches et noires. Faites preuve de concentration et de réflexion pour ne pas perdre la partie ou vous retrouver dans une situation de Sumito favorable à votre adversaire ! Le but du jeu Abalone de Asmodee est simple : Soyez le premier à sortir 6 billes de votre adversaire du plateau en les poussant avec les votres ! A chaque tour, les joueurs ont le droit d’effectuer un seul déplacement, de une à trois billes, vers un ou plusieurs espaces libres situés dans une même direction. Autre possibilité, effectuer un Sumito : mouvement consistant à pousser les billes adverses lorsque vous vous trouvez en position de supériorité numérique.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 2,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "content": [],
+  "videoURL": null
+},{
+  "_id": {
+    "$oid": "6078c99e49a7b0ba9e940637"
+  },
+  "title": "Argh",
+  "preamble": "Révoltez-vous ! Oui amis animaux,révoltez-vous contre les humains qui nous exploitent !",
+  "description": "",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 4,
+  "difficulty": "1",
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    }
+  ],
+  "content": []
+},{
+  "_id": {
+    "$oid": "6078cb3349a7b0ba9e940638"
+  },
+  "title": "Detrak",
+  "preamble": "Lancez les dés et notez les symboles obtenus dans votre grille pour marquer le plus possible de points.",
+  "description": "",
+  "nbMinPlayer": 1,
+  "nbMaxPlayer": 6,
+  "difficulty": "1",
+  "gameTimes": "(-15)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "6078cc3549a7b0ba9e94063a"
+    }
+  ],
+  "content": []
+},{
+  "_id": {
+    "$oid": "6078cb3349a7b0ba9e940639"
+  },
+  "title": "Miss Poutine",
+  "preamble": "Rejoignez le personnel de l'endroit, jouez du coude et criez pour compléter vos commandes le plus vite possible! Les plus lents devront rester après la fermeture pour passer la moppe!",
+  "description": "",
+  "nbMinPlayer": 4,
+  "nbMaxPlayer": 8,
+  "difficulty": "1",
+  "gameTimes": "(-15)",
+  "quantity": 1,
+  "minAge": 8,
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    }
+  ],
+  "content": []
+},{
+  "_id": {
+    "$oid": "60817337915f593f8cbfdf23"
+  },
+  "contents": [],
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b5"
+    },
+    {
+      "$oid": "6074503521882cb44ef430b8"
+    }
+  ],
+  "title": "Tanguy Warrior 7 : L'héritier du Dragon",
+  "preamble": "Vous continuez de suivre les aventures de Tanguy Warrior, toujours à la recherche d'un stage.",
+  "description": "Tanguy Warrior 7 n'a pas de description. Car on ne décrit pas Tanguy. Il est inénarrable.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 4,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078c5ff49a7b0ba9e940635"
+  },
+  "title": "7 Wonders",
+  "preamble": "L'Antiquité et ses merveilles. Revivez l'épopée des grandes constructions avec ce jeu de cartes et de stratégie !",
+  "description": "Il utilise une technique de construction où, à chaque tour, chaque joueur choisit une carte de sa main puis passe les cartes restantes à son voisin. Ceci se répète jusqu'à ce que 6 des 7 cartes initiales aient été jouées. Le jeu se joue avec trois paquets de cartes représentant trois âges de développement. À la fin de chaque âge, des conflits militaires sont résolus entre voisins.",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 7,
+  "difficulty": 2,
+  "gameTimes": "(30 - 60)",
+  "quantity": 2,
+  "minAge": 12,
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "content": [],
+  "videoURL": ""
+},{
+  "_id": {
+    "$oid": "6079cf834c107d30d4724cc8"
+  },
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430ba"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "title": "Patchistory",
+  "preamble": "Il est temps de tout recommencer. Il est temps de revenir sur ces grands moments et de refaire l’Histoire. Il est temps d’agencer différemment les évènements et de façonner l’Histoire\nselon vos désirs",
+  "description": "Votre civilisation verra naître des Héros tels qu’Aristote, Gandhi ou Elizabeth I et sortir de terre des Merveilles comme les Jardins Suspendus, la Tour Eiffel, la Grande Muraille de Chine et bien d’autres encore. Patchistory vous propose de recréer votre propre Histoire en développant la civilisation la plus merveilleuse que le monde ait jamais connue.\nDans Patchistory, prenez la tête d’une civilisation et réécrivez l’Histoire ! En tant que leader, traversez les siècles et gérez la guerre, le commerce, la construction de monuments, le développement culturel, les innovations technologiques et le recrutement de grands héros. Créez alors la civilisation la plus merveilleuse que le monde ait connue : la vôtre !",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 4,
+  "difficulty": 3,
+  "gameTimes": "(60+)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d33bf6f540b3924990f1a"
+  },
+  "categories": [
+    {
+      "$oid": "6078cc3549a7b0ba9e94063a"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    }
+  ],
+  "title": "Wazabi",
+  "preamble": "Un seul but : se débarrasser de ses dés. Le piège : moins vous en avez, plus ce sera difficile !",
+  "description": "Les règles très simples cachent un mécanisme hyper original qui risque de vous rendre accro : moins vous avez de dés, plus minces sont vos chances de vous en défausser. Les cartes aux effets dévastateurs pour vos adversaires sont jouées en fonction de votre tirage de dés : elles modifient en permanence le nombre de cartes et de dés détenus par chacun. Dés et cartes passent de main en main ou sont défaussés, changeant constamment les rapports de force !",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 6,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 3,
+  "videoURL": "",
+  "minAge": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d3b5f6f540b3924990f1c"
+  },
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    }
+  ],
+  "title": "Concept",
+  "preamble": "Plus besoin de parler pour communiquer ! Utilisez des illustrations et faîtes-vous comprendre !",
+  "description": "Dans le jeu Concept, le seul moyen pour communiquer est d’utiliser des icônes universelles et de les associer entre elles. Ces icônes présentes sur un plateau central font office de dictionnaire universel et il vous faudra réussir à vous faire comprendre uniquement grâce à ces \"concepts' illustrés. Vous verrez, il ne faut pas forcément parler pour partager une idée ! Par équipe de deux joueurs, choisissez un mot à faire deviner aux autres. Placez ensuite judicieusement les pions sur les icônes du plateau pour les activer une à une. Le premier joueur qui devine le mot gagne des points de victoire. Après 12 cartes jouées, le joueur qui a le plus de points remporte la partie.\nC'est simple, audacieux, et accessible à tous dès 10 ans. En plus Concept peut se jouer jusqu'à 12 joueurs par équipe de deux... Alors ! Saurez-vous vous faire comprendre... sans parler ?",
+  "nbMinPlayer": 4,
+  "nbMaxPlayer": 12,
+  "difficulty": 1,
+  "gameTimes": "(30- 60)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d3ec26f540b3924990f1d"
+  },
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    },
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    }
+  ],
+  "title": "Mito",
+  "preamble": "Pour une fois il est permis de tricher !",
+  "description": "Chacun son tour vous jouerez le rôle de la Gardienne Punaise et surveillerez vos camarades. L'objectif du jeu : être le premier à se débarrasser de toutes ses cartes ! Pour ce faire mettez des cartes dans votre manche, faites-les glisser discrètement sous la table... tout est permis à condition de ne pas être découvert !",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 5,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 2,
+  "videoURL": "",
+  "minAge": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d42bb64af0d4a4870cb05"
+  },
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    }
+  ],
+  "title": "6 qui prend",
+  "preamble": "Ces drôles de cartes valent de 1 à 7 «têtes de boeufs» chacune. Votre but : en récolter le moins possible.",
+  "description": "En début de manche vous recevez 10 cartes. À chaque tour, les joueurs choisissent une carte et la révèlent à tous en même temps : ces cartes sont ajoutées à l’une des 4 séries qui se forment sur la table. Celui qui doit jouer la sixième carte d’une série «récolte» les 5 premières... et toutes leurs têtes de boeufs ! Quand les 10 cartes sont jouées, chacun compte ses boeufs et les additionne à son total précédent. Après plusieurs manches, le plus petit troupeau gagnera la partie.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 10,
+  "difficulty": 1,
+  "gameTimes": "(30 - 60)",
+  "quantity": 2,
+  "videoURL": "",
+  "minAge": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d430664af0d4a4870cb06"
+  },
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "title": "Code Names",
+  "preamble": "Codenames est un jeu de langage et de déduction dans lequel s'affrontent deux équipes d'espions.",
+  "description": "Dans Codenames, les joueurs incarnent des espions d'élite répartis dans deux équipes. À la tête de chaque équipe, un maître-espion dirige les opérations. Les deux maîtres-espions sont les seuls à avoir connaissance de toutes les identités des autres agents en mission. Ces derniers ne sont connus que par leur nom de code.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 8,
+  "difficulty": 1,
+  "gameTimes": "(30 - 60)",
+  "quantity": 2,
+  "videoURL": "",
+  "minAge": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d73c67c06be035034f8f7"
+  },
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b7"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    }
+  ],
+  "title": "Blanc Manger Coco",
+  "preamble": "Blanc-manger Coco est un jeu de cartes, idéal pour l’apéro entre amis. L’objectif est de rire de tout, grâce à des combinaisons de mots à l’esprit transgressif.",
+  "description": "Chaque joueur a 11 cartes blanches dans les mains et un des joueurs lit une carte Bleue qui contient une phrase à trou. Les autres joueurs choisissent la carte qu’ils trouvent la plus drôle pour combler le trou",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 4,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 3,
+  "videoURL": "",
+  "minAge": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d88197c06be035034f8f8"
+  },
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    },
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    }
+  ],
+  "title": "Time Bomb",
+  "preamble": "enterez-vous de faire exploser Big Ben ou au contraire mettrez-vous tout en œuvre pour protéger ce bijou d'architecture ?",
+  "description": "L'action se déroule dans la charmante ville de Londres. Big Ben, du haut de ses 96 m surplombe magistralement la capitale anglaise. Sous le tic-tac régulier de son horloge, personne ne se doute qu'une bombe a été posée par l'infâme Moriarty. Si la bombe explose, les dégâts seront inestimables. Heureusement, Sherlock est sur le coup et se précipite vers la grande tour pour tenter de la désamorcer !",
+  "nbMinPlayer": 4,
+  "nbMaxPlayer": 8,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 2,
+  "videoURL": "",
+  "minAge": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d94397c06be035034f8f9"
+  },
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    }
+  ],
+  "title": "Munchkin",
+  "preamble": "Tuez des monstres, pillez des trésors, trahissez vos amis!",
+  "description": "Souvenez-vous : vous rêviez de monstres à trucider, de dragons à étriller, de princesses à sauver et de donjons à piller… Mais la dure réalité vous apparaît enfin : les armuriers vous arnaquent, vos compagnons d’aventure sont des pitres, les monstres sont tous au courant que vous êtes niveau 1… et toujours pas une pièce d’or à l’horizon.",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 6,
+  "difficulty": 1,
+  "gameTimes": "(15 - 30)",
+  "quantity": 2,
+  "videoURL": "",
+  "minAge": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d94497c06be035034f8fa"
+  },
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "title": "Not Alone",
+  "preamble": "25e siècle, l’Humanité s’est envolée depuis longtemps vers les étoiles. Elle a voyagé aux confins de la galaxie et pourtant, elle n’a jamais rencontré d’autres formes de vie intelligente.",
+  "description": "En fouillant les archives centrales de la vieille Terre, vous avez découvert qu’une planète du nom d’Artemia avait été rayée des cartes officielles et qu’aucune autre donnée n’était disponible. Intrigués, vous montez une expédition.Les premiers relevés de la surface d’Artemia révèlent une planète de classe M, accueillante pour l’homme et abritant une faune et une flore riches et variées. Lors de votre entrée dans l’atmosphère, un puissant champ magnétique met les ordinateurs de bord hors service. Après avoir lancé un SOS, le Capitaine ordonne l’évacuation du vaisseau avant l’inévitable crash.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 7,
+  "difficulty": 2,
+  "gameTimes": "(30 - 60)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607e8e77a3059f4bd85ce677"
+  },
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    }
+  ],
+  "title": "Mysterium",
+  "preamble": "Mysterium est un jeu d’ambiance innovant, palpitant et immersif. Il revisite les jeux d’enquête et de coopération.",
+  "description": "M. MacDowell, astrologue doué, a détecté la présence d'un être surnaturel en entrant dans sa nouvelle maison en Écosse. Il a réuni d'éminents médiums pour une séance extraordinaire. Ces derniers ont sept heures pour contacter le fantôme et enquêter sur son assassinat. Malheureusement, le fantôme est amnésique et ne peut communiquer avec les médiums que par le biais de visions, qui sont représentées dans le jeu par des cartes illustrées. Les médiums doivent déchiffrer les images pour aider le fantôme à se rappeler du drame : Qui a commis le crime ? Où s'est-il déroulé ? Quelle arme a causé la mort ? Plus les médiums coopèrent et devinent bien, plus il est facile d'attraper le bon coupable.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 7,
+  "difficulty": 2,
+  "gameTimes": "(30 - 60)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607fe0ab4113134d30a6a453"
+  },
+  "categories": [
+    {
+      "$oid": "6078cc3549a7b0ba9e94063b"
+    },
+    {
+      "$oid": "6074503521882cb44ef430ba"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "title": "Catan",
+  "preamble": "À vous les joies et les peines de l'exploration de l'île de Catane !",
+  "description": "Catan est un jeu passionnant, véritable succès parmi les jeux de société contemporains. Sorti en 1995 sous le nom \"Les Colons de Catane\", ce jeu de société reste l'un des plus vendus dans le monde et insufflé un véritable renouveau dans le monde des jeux de stratégie et de plateau.",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 4,
+  "difficulty": 2,
+  "gameTimes": "(30 - 60)",
+  "quantity": 3,
+  "videoURL": "",
+  "minAge": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080123a4113134d30a6a454"
+  },
+  "categories": [
+    {
+      "$oid": "6078cc3549a7b0ba9e94063b"
+    },
+    {
+      "$oid": "6078cc3549a7b0ba9e94063a"
+    },
+    {
+      "$oid": "6074503521882cb44ef430ba"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    }
+  ],
+  "title": "Monopoly",
+  "preamble": "Monopoly: jeu de société où le but est d'être le dernier joueur à ne pas faire faillite. Version française.",
+  "description": "Le Monopoly est un jeu de société américain édité par Hasbro. Le but du jeu consiste à ruiner ses concurrents par des opérations immobilières. Il symbolise les aspects apparents et spectaculaires du capitalisme, les fortunes se faisant et se défaisant au fil des coups de dés.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 6,
+  "difficulty": 1,
+  "gameTimes": "(60+)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608014b94113134d30a6a455"
+  },
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    }
+  ],
+  "title": "Cerbere",
+  "preamble": "Votre dernière aventure vous a mené là où vous n’auriez jamais dû aller : dans les enfers !",
+  "description": "Dans ce jeu de semi-coopération, les joueurs devront s’entraider afin de traverser le plateau sans se faire rattraper par Cerbère, afin de rejoindre la Barque. Cependant, tous ne pourront pas monter dedans et, tôt ou tard, certains devront être sacrifiés.",
+  "nbMinPlayer": 3,
+  "nbMaxPlayer": 7,
+  "difficulty": 1,
+  "gameTimes": "(30 - 60)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608015204113134d30a6a456"
+  },
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    },
+    {
+      "$oid": "6078cc3549a7b0ba9e94063b"
+    }
+  ],
+  "title": "Andor",
+  "preamble": "Un jeu coopératif dans le monde fantastique d'Andor. Incarnez des aventuriez et sauvez le royaume !",
+  "description": "Andor est un jeu de plateau d'aventure coopératif pour deux à quatre joueurs dans lequel une bande de héros doit travailler ensemble pour défendre un royaume fantastique contre les hordes d'envahisseurs. Pour sécuriser les frontières d'Andor, les héros s'embarqueront dans des quêtes dangereuses au cours de cinq scénarios uniques (ainsi qu'un scénario final créé par les joueurs eux-mêmes). Mais comme le système de jeu intelligent maintient les créatures en marche vers le château, les joueurs doivent équilibrer leurs priorités avec soin.",
+  "nbMinPlayer": 2,
+  "nbMaxPlayer": 4,
+  "difficulty": 1,
+  "gameTimes": "(30 - 60)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60817740915f593f8cbfdf24"
+  },
+  "contents": [],
+  "categories": [
+    {
+      "$oid": "6074503521882cb44ef430ba"
+    },
+    {
+      "$oid": "6078cc3549a7b0ba9e94063b"
+    }
+  ],
+  "title": "Tanguy Warrior",
+  "preamble": "Tanguy Warrior est un jeune développeur en quête d'un stage. Aidez le à trouver son sésame.",
+  "description": "",
+  "nbMinPlayer": 1,
+  "nbMaxPlayer": 6,
+  "difficulty": 3,
+  "gameTimes": "(15 - 30)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608179af915f593f8cbfdf25"
+  },
+  "contents": [],
+  "categories": [
+    {
+      "$oid": "60744fd321882cb44ef430b7"
+    },
+    {
+      "$oid": "6074503521882cb44ef430b9"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b5"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b3"
+    },
+    {
+      "$oid": "6078cc3549a7b0ba9e94063a"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b6"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b6"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b4"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bb"
+    },
+    {
+      "$oid": "60744fd321882cb44ef430b6"
+    },
+    {
+      "$oid": "6078cc3549a7b0ba9e94063b"
+    },
+    {
+      "$oid": "6074503521882cb44ef430ba"
+    },
+    {
+      "$oid": "6074503521882cb44ef430b8"
+    },
+    {
+      "$oid": "6074503521882cb44ef430bc"
+    }
+  ],
+  "title": "Tanguy Warrior UNLIMITS",
+  "preamble": "Dans ce huitième et dernier opus, Tanguy a trouvé son stage mais depuis, il a changé..",
+  "description": "",
+  "nbMinPlayer": 1,
+  "nbMaxPlayer": 10,
+  "difficulty": 4,
+  "gameTimes": "(-15)",
+  "quantity": 1,
+  "videoURL": "",
+  "minAge": 18,
+  "__v": 0
+}]

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60744fd321882cb44ef430b3"
+  },
+  "categorieName": "Stratégie"
+},{
+  "_id": {
+    "$oid": "60744fd321882cb44ef430b4"
+  },
+  "categorieName": "Ambiance"
+},{
+  "_id": {
+    "$oid": "60744fd321882cb44ef430b5"
+  },
+  "categorieName": "Dextérité"
+},{
+  "_id": {
+    "$oid": "60744fd321882cb44ef430b6"
+  },
+  "categorieName": "Enfant"
+},{
+  "_id": {
+    "$oid": "60744fd321882cb44ef430b7"
+  },
+  "categorieName": "Adulte"
+},{
+  "_id": {
+    "$oid": "6074503521882cb44ef430b8"
+  },
+  "categorieName": "Dessin"
+},{
+  "_id": {
+    "$oid": "6074503521882cb44ef430b9"
+  },
+  "categorieName": "Cartes"
+},{
+  "_id": {
+    "$oid": "6074503521882cb44ef430ba"
+  },
+  "categorieName": "Gestion"
+},{
+  "_id": {
+    "$oid": "6074503521882cb44ef430bb"
+  },
+  "categorieName": "Coopération"
+},{
+  "_id": {
+    "$oid": "6074503521882cb44ef430bc"
+  },
+  "categorieName": "Bluff"
+},{
+  "_id": {
+    "$oid": "6078cc3549a7b0ba9e94063a"
+  },
+  "categorieName": "Dés"
+},{
+  "_id": {
+    "$oid": "6078cc3549a7b0ba9e94063b"
+  },
+  "categorieName": "Plateau"
+}]
