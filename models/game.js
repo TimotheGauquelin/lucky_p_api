@@ -17,7 +17,7 @@ const GameSchema = new Schema({
     quantity: Number,
     minAge: Number,
     videoURL: String,
-    // content: { type: Array, "default": [] },
+    contents: { type: Array, "default": [] },
     categories: { type: Array, "default": [] }
 });
 
